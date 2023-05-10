@@ -25,6 +25,6 @@
 - 검이 수신할 수 있는 메세지
 1. 강화되어라
 2. //구매되라
-3. //팔려라.
+3. //팔려라
 
 [커뮤니케이션 다이어그램]  (https://whimsical.com/PnCUktCi6iVVuWRX6BfB1g)
