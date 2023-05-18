@@ -1,4 +1,3 @@
-# class-and-object-project-seol
 # 프로젝트 소개
 검을 강화하는 간단한 게임
 필요한 객체
